@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Gestion_EcoleModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Annescolaire">
+    <Key>
+      <PropertyRef Name="id_As" />
+    </Key>
+    <Property Name="id_As" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="lebale" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="groupe" Relationship="Self.FK__groupe__id_As__164452B1" FromRole="Annescolaire" ToRole="groupe" />
+  </EntityType>
+  <EntityType Name="branche">
+    <Key>
+      <PropertyRef Name="id_br" />
+    </Key>
+    <Property Name="id_br" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="intitule" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="groupe" Relationship="Self.FK__groupe__id_br__173876EA" FromRole="branche" ToRole="groupe" />
+  </EntityType>
+  <EntityType Name="Evaluation">
+    <Key>
+      <PropertyRef Name="n_ins" />
+      <PropertyRef Name="id_Exam" />
+      <PropertyRef Name="id_mat" />
+    </Key>
+    <Property Name="observation" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="note" Type="Double" />
+    <Property Name="dateEv" Type="DateTime" Precision="0" />
+    <Property Name="n_ins" Type="Int32" Nullable="false" />
+    <Property Name="id_Exam" Type="Int32" Nullable="false" />
+    <Property Name="id_mat" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Exam" Relationship="Self.FK__Evaluatio__id_Ex__5FB337D6" FromRole="Evaluation" ToRole="Exam" />
+    <NavigationProperty Name="Matiere" Relationship="Self.FK__Evaluatio__id_ma__60A75C0F" FromRole="Evaluation" ToRole="Matiere" />
+    <NavigationProperty Name="Stagaire" Relationship="Self.FK__Evaluatio__n_ins__5EBF139D" FromRole="Evaluation" ToRole="Stagaire" />
+  </EntityType>
+  <EntityType Name="Exam">
+    <Key>
+      <PropertyRef Name="id_Exam" />
+    </Key>
+    <Property Name="id_Exam" Type="Int32" Nullable="false" />
+    <Property Name="Intitule" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Evaluation" Relationship="Self.FK__Evaluatio__id_Ex__5FB337D6" FromRole="Exam" ToRole="Evaluation" />
+  </EntityType>
+  <EntityType Name="groupe">
+    <Key>
+      <PropertyRef Name="id_gp" />
+    </Key>
+    <Property Name="id_gp" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="intitule" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="id_As" Type="Int32" />
+    <Property Name="id_br" Type="Int32" />
+    <Property Name="id_nv" Type="Int32" />
+    <NavigationProperty Name="Annescolaire" Relationship="Self.FK__groupe__id_As__164452B1" FromRole="groupe" ToRole="Annescolaire" />
+    <NavigationProperty Name="branche" Relationship="Self.FK__groupe__id_br__173876EA" FromRole="groupe" ToRole="branche" />
+    <NavigationProperty Name="niveau" Relationship="Self.FK__groupe__id_nv__182C9B23" FromRole="groupe" ToRole="niveau" />
+    <NavigationProperty Name="Stagaire" Relationship="Self.FK__Stagaire__id_gp__239E4DCF" FromRole="groupe" ToRole="Stagaire" />
+  </EntityType>
+  <EntityType Name="Matiere">
+    <Key>
+      <PropertyRef Name="id_mat" />
+    </Key>
+    <Property Name="id_mat" Type="Int32" Nullable="false" />
+    <Property Name="intitule" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="coef" Type="Int32" />
+    <NavigationProperty Name="Evaluation" Relationship="Self.FK__Evaluatio__id_ma__60A75C0F" FromRole="Matiere" ToRole="Evaluation" />
+  </EntityType>
+  <EntityType Name="niveau">
+    <Key>
+      <PropertyRef Name="id_nv" />
+    </Key>
+    <Property Name="id_nv" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="intitule" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="groupe" Relationship="Self.FK__groupe__id_nv__182C9B23" FromRole="niveau" ToRole="groupe" />
+  </EntityType>
+  <EntityType Name="Stagaire">
+    <Key>
+      <PropertyRef Name="n_ins" />
+    </Key>
+    <Property Name="n_ins" Type="Int32" Nullable="false" />
+    <Property Name="nom" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="prenom" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="Date_naissance" Type="DateTime" Precision="0" />
+    <Property Name="Nom_Ar" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Prenom_Ar" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Cin" Type="String" MaxLength="9" FixedLength="false" Unicode="false" />
+    <Property Name="Niveau_scolaire" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="adresse" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="tel" Type="Int32" />
+    <Property Name="id_gp" Type="Int32" />
+    <NavigationProperty Name="Evaluation" Relationship="Self.FK__Evaluatio__n_ins__5EBF139D" FromRole="Stagaire" ToRole="Evaluation" />
+    <NavigationProperty Name="groupe" Relationship="Self.FK__Stagaire__id_gp__239E4DCF" FromRole="Stagaire" ToRole="groupe" />
+  </EntityType>
+  <Association Name="FK__groupe__id_As__164452B1">
+    <End Role="Annescolaire" Type="Self.Annescolaire" Multiplicity="0..1" />
+    <End Role="groupe" Type="Self.groupe" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Annescolaire">
+        <PropertyRef Name="id_As" />
+      </Principal>
+      <Dependent Role="groupe">
+        <PropertyRef Name="id_As" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__groupe__id_br__173876EA">
+    <End Role="branche" Type="Self.branche" Multiplicity="0..1" />
+    <End Role="groupe" Type="Self.groupe" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="branche">
+        <PropertyRef Name="id_br" />
+      </Principal>
+      <Dependent Role="groupe">
+        <PropertyRef Name="id_br" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Evaluatio__id_Ex__5FB337D6">
+    <End Role="Exam" Type="Self.Exam" Multiplicity="1" />
+    <End Role="Evaluation" Type="Self.Evaluation" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Exam">
+        <PropertyRef Name="id_Exam" />
+      </Principal>
+      <Dependent Role="Evaluation">
+        <PropertyRef Name="id_Exam" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Evaluatio__id_ma__60A75C0F">
+    <End Role="Matiere" Type="Self.Matiere" Multiplicity="1" />
+    <End Role="Evaluation" Type="Self.Evaluation" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Matiere">
+        <PropertyRef Name="id_mat" />
+      </Principal>
+      <Dependent Role="Evaluation">
+        <PropertyRef Name="id_mat" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Evaluatio__n_ins__5EBF139D">
+    <End Role="Stagaire" Type="Self.Stagaire" Multiplicity="1" />
+    <End Role="Evaluation" Type="Self.Evaluation" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Stagaire">
+        <PropertyRef Name="n_ins" />
+      </Principal>
+      <Dependent Role="Evaluation">
+        <PropertyRef Name="n_ins" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__groupe__id_nv__182C9B23">
+    <End Role="niveau" Type="Self.niveau" Multiplicity="0..1" />
+    <End Role="groupe" Type="Self.groupe" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="niveau">
+        <PropertyRef Name="id_nv" />
+      </Principal>
+      <Dependent Role="groupe">
+        <PropertyRef Name="id_nv" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Stagaire__id_gp__239E4DCF">
+    <End Role="groupe" Type="Self.groupe" Multiplicity="0..1" />
+    <End Role="Stagaire" Type="Self.Stagaire" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="groupe">
+        <PropertyRef Name="id_gp" />
+      </Principal>
+      <Dependent Role="Stagaire">
+        <PropertyRef Name="id_gp" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Gestion_EcoleEntities4" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Annescolaire" EntityType="Self.Annescolaire" />
+    <EntitySet Name="branche" EntityType="Self.branche" />
+    <EntitySet Name="Evaluation" EntityType="Self.Evaluation" />
+    <EntitySet Name="Exam" EntityType="Self.Exam" />
+    <EntitySet Name="groupe" EntityType="Self.groupe" />
+    <EntitySet Name="Matiere" EntityType="Self.Matiere" />
+    <EntitySet Name="niveau" EntityType="Self.niveau" />
+    <EntitySet Name="Stagaire" EntityType="Self.Stagaire" />
+    <AssociationSet Name="FK__groupe__id_As__164452B1" Association="Self.FK__groupe__id_As__164452B1">
+      <End Role="Annescolaire" EntitySet="Annescolaire" />
+      <End Role="groupe" EntitySet="groupe" />
+    </AssociationSet>
+    <AssociationSet Name="FK__groupe__id_br__173876EA" Association="Self.FK__groupe__id_br__173876EA">
+      <End Role="branche" EntitySet="branche" />
+      <End Role="groupe" EntitySet="groupe" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Evaluatio__id_Ex__5FB337D6" Association="Self.FK__Evaluatio__id_Ex__5FB337D6">
+      <End Role="Exam" EntitySet="Exam" />
+      <End Role="Evaluation" EntitySet="Evaluation" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Evaluatio__id_ma__60A75C0F" Association="Self.FK__Evaluatio__id_ma__60A75C0F">
+      <End Role="Matiere" EntitySet="Matiere" />
+      <End Role="Evaluation" EntitySet="Evaluation" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Evaluatio__n_ins__5EBF139D" Association="Self.FK__Evaluatio__n_ins__5EBF139D">
+      <End Role="Stagaire" EntitySet="Stagaire" />
+      <End Role="Evaluation" EntitySet="Evaluation" />
+    </AssociationSet>
+    <AssociationSet Name="FK__groupe__id_nv__182C9B23" Association="Self.FK__groupe__id_nv__182C9B23">
+      <End Role="niveau" EntitySet="niveau" />
+      <End Role="groupe" EntitySet="groupe" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Stagaire__id_gp__239E4DCF" Association="Self.FK__Stagaire__id_gp__239E4DCF">
+      <End Role="groupe" EntitySet="groupe" />
+      <End Role="Stagaire" EntitySet="Stagaire" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

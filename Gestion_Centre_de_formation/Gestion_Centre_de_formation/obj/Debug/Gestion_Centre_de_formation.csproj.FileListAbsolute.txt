@@ -1,0 +1,151 @@
+C:\Users\ALPHA\Desktop\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\bin\Debug\Gestion_Centre_de_formation.exe.config
+C:\Users\ALPHA\Desktop\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\bin\Debug\Gestion_Centre_de_formation.exe
+C:\Users\ALPHA\Desktop\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\bin\Debug\Gestion_Centre_de_formation.pdb
+C:\Users\ALPHA\Desktop\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.csprojAssemblyReference.cache
+C:\Users\ALPHA\Desktop\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.frmGestionAnneeScolaire.resources
+C:\Users\ALPHA\Desktop\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.Form1.resources
+C:\Users\ALPHA\Desktop\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.frmGestionBranche.resources
+C:\Users\ALPHA\Desktop\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.Properties.Resources.resources
+C:\Users\ALPHA\Desktop\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.csproj.GenerateResource.cache
+C:\Users\ALPHA\Desktop\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.csproj.CoreCompileInputs.cache
+C:\Users\ALPHA\Desktop\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.exe
+C:\Users\ALPHA\Desktop\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.pdb
+C:\Users\ALPHA\Desktop\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.GestioGroup.resources
+S:\mini projet\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\bin\Debug\Gestion_Centre_de_formation.exe.config
+S:\mini projet\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\bin\Debug\Gestion_Centre_de_formation.exe
+S:\mini projet\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\bin\Debug\Gestion_Centre_de_formation.pdb
+S:\mini projet\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.csprojAssemblyReference.cache
+S:\mini projet\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.frmGestionAnneeScolaire.resources
+S:\mini projet\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.Form1.resources
+S:\mini projet\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.frmGestionBranche.resources
+S:\mini projet\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.GestioGroup.resources
+S:\mini projet\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.Properties.Resources.resources
+S:\mini projet\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.csproj.GenerateResource.cache
+S:\mini projet\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.csproj.CoreCompileInputs.cache
+S:\mini projet\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.exe
+S:\mini projet\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.pdb
+S:\mini projet\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.Gestion_Stagire.resources
+S:\mini projet\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.LA_Liste_De_stagaire.resources
+S:\mini projet\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\bin\Debug\EntityFramework.dll
+S:\mini projet\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\bin\Debug\EntityFramework.SqlServer.dll
+S:\mini projet\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\bin\Debug\EntityFramework.xml
+S:\mini projet\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\bin\Debug\EntityFramework.SqlServer.xml
+S:\mini projet\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\bin\Debug\fr\EntityFramework.resources.dll
+S:\mini projet\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.csproj.CopyComplete
+S:\mini projet\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.frmMat.resources
+S:\mini projet\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.FRMEXAM.resources
+C:\Users\ALPHA\Desktop\gestion d'un centre de formation\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\bin\Debug\Gestion_Centre_de_formation.exe.config
+C:\Users\ALPHA\Desktop\gestion d'un centre de formation\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\bin\Debug\Gestion_Centre_de_formation.exe
+C:\Users\ALPHA\Desktop\gestion d'un centre de formation\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\bin\Debug\Gestion_Centre_de_formation.pdb
+C:\Users\ALPHA\Desktop\gestion d'un centre de formation\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\bin\Debug\EntityFramework.dll
+C:\Users\ALPHA\Desktop\gestion d'un centre de formation\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ALPHA\Desktop\gestion d'un centre de formation\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\bin\Debug\EntityFramework.xml
+C:\Users\ALPHA\Desktop\gestion d'un centre de formation\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ALPHA\Desktop\gestion d'un centre de formation\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\ALPHA\Desktop\gestion d'un centre de formation\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.csprojAssemblyReference.cache
+C:\Users\ALPHA\Desktop\gestion d'un centre de formation\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.FRMEXAM.resources
+C:\Users\ALPHA\Desktop\gestion d'un centre de formation\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.frmGestionAnneeScolaire.resources
+C:\Users\ALPHA\Desktop\gestion d'un centre de formation\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.Form1.resources
+C:\Users\ALPHA\Desktop\gestion d'un centre de formation\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.frmGestionBranche.resources
+C:\Users\ALPHA\Desktop\gestion d'un centre de formation\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.frmMat.resources
+C:\Users\ALPHA\Desktop\gestion d'un centre de formation\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.GestioGroup.resources
+C:\Users\ALPHA\Desktop\gestion d'un centre de formation\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.Gestion_Stagire.resources
+C:\Users\ALPHA\Desktop\gestion d'un centre de formation\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.LA_Liste_De_stagaire.resources
+C:\Users\ALPHA\Desktop\gestion d'un centre de formation\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.Properties.Resources.resources
+C:\Users\ALPHA\Desktop\gestion d'un centre de formation\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.csproj.GenerateResource.cache
+C:\Users\ALPHA\Desktop\gestion d'un centre de formation\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.csproj.CoreCompileInputs.cache
+C:\Users\ALPHA\Desktop\gestion d'un centre de formation\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.csproj.CopyComplete
+C:\Users\ALPHA\Desktop\gestion d'un centre de formation\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.exe
+C:\Users\ALPHA\Desktop\gestion d'un centre de formation\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.pdb
+C:\Users\ALPHA\Desktop\gestion d'un centre de formation\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.formEval.resources
+C:\Users\ALPHA\Desktop\prepare projet\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\bin\Debug\Gestion_Centre_de_formation.exe.config
+C:\Users\ALPHA\Desktop\prepare projet\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\bin\Debug\Gestion_Centre_de_formation.exe
+C:\Users\ALPHA\Desktop\prepare projet\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\bin\Debug\Gestion_Centre_de_formation.pdb
+C:\Users\ALPHA\Desktop\prepare projet\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\bin\Debug\EntityFramework.dll
+C:\Users\ALPHA\Desktop\prepare projet\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ALPHA\Desktop\prepare projet\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\bin\Debug\EntityFramework.xml
+C:\Users\ALPHA\Desktop\prepare projet\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ALPHA\Desktop\prepare projet\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\ALPHA\Desktop\prepare projet\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.csprojAssemblyReference.cache
+C:\Users\ALPHA\Desktop\prepare projet\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.formEval.resources
+C:\Users\ALPHA\Desktop\prepare projet\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.FRMEXAM.resources
+C:\Users\ALPHA\Desktop\prepare projet\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.frmGestionAnneeScolaire.resources
+C:\Users\ALPHA\Desktop\prepare projet\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.Form1.resources
+C:\Users\ALPHA\Desktop\prepare projet\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.frmGestionBranche.resources
+C:\Users\ALPHA\Desktop\prepare projet\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.frmMat.resources
+C:\Users\ALPHA\Desktop\prepare projet\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.GestioGroup.resources
+C:\Users\ALPHA\Desktop\prepare projet\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.Gestion_Stagire.resources
+C:\Users\ALPHA\Desktop\prepare projet\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.LA_Liste_De_stagaire.resources
+C:\Users\ALPHA\Desktop\prepare projet\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.Properties.Resources.resources
+C:\Users\ALPHA\Desktop\prepare projet\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.csproj.GenerateResource.cache
+C:\Users\ALPHA\Desktop\prepare projet\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.csproj.CoreCompileInputs.cache
+C:\Users\ALPHA\Desktop\prepare projet\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.csproj.CopyComplete
+C:\Users\ALPHA\Desktop\prepare projet\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.exe
+C:\Users\ALPHA\Desktop\prepare projet\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.pdb
+C:\Users\ALPHA\Desktop\prepare projet\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.Menu.resources
+C:\Users\ALPHA\Desktop\prepare projet\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ALPHA\Desktop\prepare projet\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ALPHA\Desktop\prepare projet\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ALPHA\Desktop\prepare projet\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\ALPHA\Desktop\prepare projet\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\bin\Debug\FlashControlV71.dll
+C:\Users\ALPHA\Desktop\prepare projet\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ALPHA\Desktop\prepare projet\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ALPHA\Desktop\prepare projet\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ALPHA\Desktop\prepare projet\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ALPHA\Desktop\prepare projet\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ALPHA\Desktop\prepare projet\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ALPHA\Desktop\prepare projet\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ALPHA\Desktop\prepare projet\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ALPHA\Desktop\prepare projet\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ALPHA\Desktop\prepare projet\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ALPHA\Desktop\prepare projet\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ALPHA\Desktop\prepare projet\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\ALPHA\Desktop\prepare projet\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ALPHA\Desktop\prepare projet\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\bin\Debug\stdole.dll
+C:\Users\ALPHA\Desktop\prepare projet\gestion d'un centre de formation\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.rapport.resources
+S:\mini projet\projet Ecole\ecole\Gestion_Centre_de_formation\Gestion_Centre_de_formation\bin\Debug\Gestion_Centre_de_formation.exe.config
+S:\mini projet\projet Ecole\ecole\Gestion_Centre_de_formation\Gestion_Centre_de_formation\bin\Debug\Gestion_Centre_de_formation.exe
+S:\mini projet\projet Ecole\ecole\Gestion_Centre_de_formation\Gestion_Centre_de_formation\bin\Debug\Gestion_Centre_de_formation.pdb
+S:\mini projet\projet Ecole\ecole\Gestion_Centre_de_formation\Gestion_Centre_de_formation\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+S:\mini projet\projet Ecole\ecole\Gestion_Centre_de_formation\Gestion_Centre_de_formation\bin\Debug\CrystalDecisions.ReportSource.dll
+S:\mini projet\projet Ecole\ecole\Gestion_Centre_de_formation\Gestion_Centre_de_formation\bin\Debug\CrystalDecisions.Shared.dll
+S:\mini projet\projet Ecole\ecole\Gestion_Centre_de_formation\Gestion_Centre_de_formation\bin\Debug\CrystalDecisions.Windows.Forms.dll
+S:\mini projet\projet Ecole\ecole\Gestion_Centre_de_formation\Gestion_Centre_de_formation\bin\Debug\EntityFramework.dll
+S:\mini projet\projet Ecole\ecole\Gestion_Centre_de_formation\Gestion_Centre_de_formation\bin\Debug\EntityFramework.SqlServer.dll
+S:\mini projet\projet Ecole\ecole\Gestion_Centre_de_formation\Gestion_Centre_de_formation\bin\Debug\FlashControlV71.dll
+S:\mini projet\projet Ecole\ecole\Gestion_Centre_de_formation\Gestion_Centre_de_formation\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+S:\mini projet\projet Ecole\ecole\Gestion_Centre_de_formation\Gestion_Centre_de_formation\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+S:\mini projet\projet Ecole\ecole\Gestion_Centre_de_formation\Gestion_Centre_de_formation\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+S:\mini projet\projet Ecole\ecole\Gestion_Centre_de_formation\Gestion_Centre_de_formation\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+S:\mini projet\projet Ecole\ecole\Gestion_Centre_de_formation\Gestion_Centre_de_formation\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+S:\mini projet\projet Ecole\ecole\Gestion_Centre_de_formation\Gestion_Centre_de_formation\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+S:\mini projet\projet Ecole\ecole\Gestion_Centre_de_formation\Gestion_Centre_de_formation\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+S:\mini projet\projet Ecole\ecole\Gestion_Centre_de_formation\Gestion_Centre_de_formation\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+S:\mini projet\projet Ecole\ecole\Gestion_Centre_de_formation\Gestion_Centre_de_formation\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+S:\mini projet\projet Ecole\ecole\Gestion_Centre_de_formation\Gestion_Centre_de_formation\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+S:\mini projet\projet Ecole\ecole\Gestion_Centre_de_formation\Gestion_Centre_de_formation\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+S:\mini projet\projet Ecole\ecole\Gestion_Centre_de_formation\Gestion_Centre_de_formation\bin\Debug\ShockwaveFlashObjects.dll
+S:\mini projet\projet Ecole\ecole\Gestion_Centre_de_formation\Gestion_Centre_de_formation\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+S:\mini projet\projet Ecole\ecole\Gestion_Centre_de_formation\Gestion_Centre_de_formation\bin\Debug\stdole.dll
+S:\mini projet\projet Ecole\ecole\Gestion_Centre_de_formation\Gestion_Centre_de_formation\bin\Debug\EntityFramework.xml
+S:\mini projet\projet Ecole\ecole\Gestion_Centre_de_formation\Gestion_Centre_de_formation\bin\Debug\EntityFramework.SqlServer.xml
+S:\mini projet\projet Ecole\ecole\Gestion_Centre_de_formation\Gestion_Centre_de_formation\bin\Debug\fr\EntityFramework.resources.dll
+S:\mini projet\projet Ecole\ecole\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.csprojAssemblyReference.cache
+S:\mini projet\projet Ecole\ecole\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.formEval.resources
+S:\mini projet\projet Ecole\ecole\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.FRMEXAM.resources
+S:\mini projet\projet Ecole\ecole\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.frmGestionAnneeScolaire.resources
+S:\mini projet\projet Ecole\ecole\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.Form1.resources
+S:\mini projet\projet Ecole\ecole\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.frmGestionBranche.resources
+S:\mini projet\projet Ecole\ecole\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.frmMat.resources
+S:\mini projet\projet Ecole\ecole\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.GestioGroup.resources
+S:\mini projet\projet Ecole\ecole\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.Gestion_Stagire.resources
+S:\mini projet\projet Ecole\ecole\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.LA_Liste_De_stagaire.resources
+S:\mini projet\projet Ecole\ecole\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.Menu.resources
+S:\mini projet\projet Ecole\ecole\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.Properties.Resources.resources
+S:\mini projet\projet Ecole\ecole\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.rapport.resources
+S:\mini projet\projet Ecole\ecole\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.csproj.GenerateResource.cache
+S:\mini projet\projet Ecole\ecole\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.csproj.CoreCompileInputs.cache
+S:\mini projet\projet Ecole\ecole\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.csproj.CopyComplete
+S:\mini projet\projet Ecole\ecole\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.exe
+S:\mini projet\projet Ecole\ecole\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.pdb
+S:\mini projet\projet Ecole\ecole\Gestion_Centre_de_formation\Gestion_Centre_de_formation\obj\Debug\Gestion_Centre_de_formation.Liste_de_note_stagaire.resources

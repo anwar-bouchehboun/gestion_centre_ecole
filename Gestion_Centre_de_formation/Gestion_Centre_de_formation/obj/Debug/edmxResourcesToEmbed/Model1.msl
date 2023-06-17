@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Gestion_EcoleModelStoreContainer" CdmEntityContainer="Gestion_EcoleEntities3">
+    <EntitySetMapping Name="Annescolaire">
+      <EntityTypeMapping TypeName="Gestion_EcoleModel.Annescolaire">
+        <MappingFragment StoreEntitySet="Annescolaire">
+          <ScalarProperty Name="id_As" ColumnName="id_As" />
+          <ScalarProperty Name="lebale" ColumnName="lebale" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="branche">
+      <EntityTypeMapping TypeName="Gestion_EcoleModel.branche">
+        <MappingFragment StoreEntitySet="branche">
+          <ScalarProperty Name="id_br" ColumnName="id_br" />
+          <ScalarProperty Name="intitule" ColumnName="intitule" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Evaluation">
+      <EntityTypeMapping TypeName="Gestion_EcoleModel.Evaluation">
+        <MappingFragment StoreEntitySet="Evaluation">
+          <ScalarProperty Name="observation" ColumnName="observation" />
+          <ScalarProperty Name="n_ins" ColumnName="n_ins" />
+          <ScalarProperty Name="id_Exam" ColumnName="id_Exam" />
+          <ScalarProperty Name="id_mat" ColumnName="id_mat" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Exam">
+      <EntityTypeMapping TypeName="Gestion_EcoleModel.Exam">
+        <MappingFragment StoreEntitySet="Exam">
+          <ScalarProperty Name="id_Exam" ColumnName="id_Exam" />
+          <ScalarProperty Name="Note" ColumnName="Note" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="Intitule" ColumnName="Intitule" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="groupe">
+      <EntityTypeMapping TypeName="Gestion_EcoleModel.groupe">
+        <MappingFragment StoreEntitySet="groupe">
+          <ScalarProperty Name="id_gp" ColumnName="id_gp" />
+          <ScalarProperty Name="intitule" ColumnName="intitule" />
+          <ScalarProperty Name="id_As" ColumnName="id_As" />
+          <ScalarProperty Name="id_br" ColumnName="id_br" />
+          <ScalarProperty Name="id_nv" ColumnName="id_nv" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Matiere">
+      <EntityTypeMapping TypeName="Gestion_EcoleModel.Matiere">
+        <MappingFragment StoreEntitySet="Matiere">
+          <ScalarProperty Name="id_mat" ColumnName="id_mat" />
+          <ScalarProperty Name="intitule" ColumnName="intitule" />
+          <ScalarProperty Name="coef" ColumnName="coef" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="niveau">
+      <EntityTypeMapping TypeName="Gestion_EcoleModel.niveau">
+        <MappingFragment StoreEntitySet="niveau">
+          <ScalarProperty Name="id_nv" ColumnName="id_nv" />
+          <ScalarProperty Name="intitule" ColumnName="intitule" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Stagaire">
+      <EntityTypeMapping TypeName="Gestion_EcoleModel.Stagaire">
+        <MappingFragment StoreEntitySet="Stagaire">
+          <ScalarProperty Name="n_ins" ColumnName="n_ins" />
+          <ScalarProperty Name="nom" ColumnName="nom" />
+          <ScalarProperty Name="prenom" ColumnName="prenom" />
+          <ScalarProperty Name="Date_naissance" ColumnName="Date_naissance" />
+          <ScalarProperty Name="Nom_Ar" ColumnName="Nom_Ar" />
+          <ScalarProperty Name="Prenom_Ar" ColumnName="Prenom_Ar" />
+          <ScalarProperty Name="Cin" ColumnName="Cin" />
+          <ScalarProperty Name="Niveau_scolaire" ColumnName="Niveau_scolaire" />
+          <ScalarProperty Name="adresse" ColumnName="adresse" />
+          <ScalarProperty Name="tel" ColumnName="tel" />
+          <ScalarProperty Name="id_gp" ColumnName="id_gp" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
